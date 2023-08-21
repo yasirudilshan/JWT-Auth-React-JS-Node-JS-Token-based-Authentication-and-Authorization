@@ -1,0 +1,15 @@
+.message{
+    display: flex;
+    justify-content: center;
+}
+
+.message .success{
+    color: green;
+
+}
+
+.message .danger{
+    color: red;
+
+}
+
